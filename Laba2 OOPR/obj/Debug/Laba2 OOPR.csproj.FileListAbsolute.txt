@@ -1,0 +1,13 @@
+D:\Visual Studio Projects\Laba2 OOPR\Laba2 OOPR\bin\Debug\Laba2 OOPR.exe.config
+D:\Visual Studio Projects\Laba2 OOPR\Laba2 OOPR\bin\Debug\Laba2 OOPR.exe
+D:\Visual Studio Projects\Laba2 OOPR\Laba2 OOPR\bin\Debug\Laba2 OOPR.pdb
+D:\Visual Studio Projects\Laba2 OOPR\Laba2 OOPR\obj\Debug\Laba2 OOPR.csprojAssemblyReference.cache
+D:\Visual Studio Projects\Laba2 OOPR\Laba2 OOPR\obj\Debug\Laba2_OOPR.mainForm.resources
+D:\Visual Studio Projects\Laba2 OOPR\Laba2 OOPR\obj\Debug\Laba2_OOPR.Properties.Resources.resources
+D:\Visual Studio Projects\Laba2 OOPR\Laba2 OOPR\obj\Debug\Laba2 OOPR.csproj.GenerateResource.cache
+D:\Visual Studio Projects\Laba2 OOPR\Laba2 OOPR\obj\Debug\Laba2 OOPR.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Laba2 OOPR\Laba2 OOPR\obj\Debug\Laba2 OOPR.exe
+D:\Visual Studio Projects\Laba2 OOPR\Laba2 OOPR\obj\Debug\Laba2 OOPR.pdb
+D:\Visual Studio Projects\Laba2 OOPR\Laba2 OOPR\obj\Debug\Laba2_OOPR.PatientForm.resources
+D:\Visual Studio Projects\Laba2 OOPR\Laba2 OOPR\obj\Debug\Laba2_OOPR.doctorForm.resources
+D:\Visual Studio Projects\Laba2 OOPR\Laba2 OOPR\obj\Debug\Laba2_OOPR.treatmentForm.resources
