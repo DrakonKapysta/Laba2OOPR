@@ -35,6 +35,7 @@ namespace Laba2_OOPR
 
         private void mainForm_Load(object sender, EventArgs e)
         {
+            MessageBox.Show("HELLO");
             button1.BackColor = Color.White;
             button2.BackColor = Color.White;
         }
